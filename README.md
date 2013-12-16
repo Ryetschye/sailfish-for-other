@@ -21,3 +21,10 @@ Issue descriptions should follow the following template:
   </tr>
 </table>
 
+Description
+-----------
+
+Workaround
+-----------
+
+...if any
