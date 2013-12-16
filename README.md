@@ -4,14 +4,15 @@ sailfish-for-other
 Sailfish OS for other devices. This repository doesn't contain any code, it is a public issue tracker.
 
 Please use tags for the issues:
-N9: Affects the Nokia N9
-N950 Affects the Nokia N950
+* N9: Affects the Nokia N9
+* N950 Affects the Nokia N950
 
 FIXED: clear enough, no?
 
 
 Issue descriptions should follow the following template:
 
+<pre>
 <table>
   <tr>
     <th>Found in image</th><td>bla bla bla</td>
@@ -28,3 +29,4 @@ Workaround
 -----------
 
 ...if any
+</pre>
