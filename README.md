@@ -12,19 +12,19 @@ FIXED: clear enough, no?
 
 Issue descriptions should follow the following template:
 
-  <table>
-    <tr>
-      <th>Found in image</th><td>bla bla bla</td>
-    </tr>
-    <tr>
-      <th>Fixed in image</th><td>...if fixed, of course</td>
-    </tr>
-  </table>
-  
-  Description
-  -----------
-  
-  Workaround
-  -----------
-  
-  ...if any
+        <table>
+        <tr>
+        <th>Found in image</th><td>bla bla bla</td>
+        </tr>
+        <tr>
+        <th>Fixed in image</th><td>...if fixed, of course</td>
+        </tr>
+        </table>
+          
+        Description
+        -----------
+        
+        Workaround
+        -----------
+        
+        ...if any
