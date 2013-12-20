@@ -8,6 +8,8 @@ The following tags are used for the issues:
 * N950 Affects the Nokia N950
 * FIXED: clear enough, no?
 * Workaround: if any
+* Bug: if the issue is clearly a bug
+* Enhancement: when the issue is about making a behaviour better
 
 Issue descriptions should follow the following template:
 
